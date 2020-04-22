@@ -1,5 +1,5 @@
 # hana
-A small project attempting to factor products of primes fast.
+A small project exploring means to factor products quicker.
 
 Start from command line.
 Enter cutoff time (in minutes) as a raw integer
