@@ -28,4 +28,13 @@ Tested on i3, 8gb, so values will vary depending on platform and hardware specs.
 
 Take measurements with a grain of salt.
 
-Open to suggestions.
+Will be posting other exploratory or ideas here as time goes on.
+
+Let me know if there are problems, as well as what your results are.
+Open to suggestions, improvements, bugs etc.
+
+Made in Python 3.7.2
+
+
+
+
